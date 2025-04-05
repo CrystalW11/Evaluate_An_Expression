@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\bin\Debug\net9.0\11-Evaluate_an_expression.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\bin\Debug\net9.0\11-Evaluate_an_expression.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\bin\Debug\net9.0\11-Evaluate_an_expression.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\bin\Debug\net9.0\11-Evaluate_an_expression.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\bin\Debug\net9.0\11-Evaluate_an_expression.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\11-Evaluate_an_expression.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\11-Evaluate_an_expression.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\11-Evaluate_an_expression.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\11-Evaluate_an_expression.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\11-Evaluate_an_expression.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\refint\11-Evaluate_an_expression.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\11-Evaluate_an_expression.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\11-Evaluate_an_expression.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\11-Evaluate_an_expression\obj\Debug\net9.0\ref\11-Evaluate_an_expression.dll
